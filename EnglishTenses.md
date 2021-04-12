@@ -4,15 +4,15 @@
 
 ## 1. Present Simple
 Use in routines, habits and facts.
-* __Affirmative__: Subject + Verb (_present_) + X
-    * For 3rd Person Singular _he/she/it_ add ‘s’ to the base form.
-    > Example: I play music every day.
+* __Affirmative form__: Subject + verb (_in base form_) + X
+    > Examples: I play music every day. It runs ok.
+    * _For 3rd Person Singular __he/she/it__ add `s` to the verb in base form_.
 
-* __Negative__: Subject + don’t/doesn’t (_auxiliary_) + Verb (_present_) + X
+* __Negative form__: Subject + don’t/doesn’t (_auxiliary_) + verb (_in base form_) + X
     > Examples: They don’t work on holidays. She doesn’t work on weekends.
 
-* __Interrogative__: Question Word + do/does (_auxiliary_) + Subject + Verb (_present_) + X ?
-    > Examples: Where do you live? Where does he born?
+* __Interrogative form__: Question word + do/does (_auxiliary_) + subject + verb (_in base form_) + X ?
+    > Examples: Where do you live? What does he write?
 
 ### 1.1 Usual, regular actions:
 > Examples:
@@ -40,11 +40,11 @@ Use in routines, habits and facts.
 
 ## 2. Present Continuous
 Present tense + progressive aspect.
-* __Affirmative__: Subject + BE + Verb (_including ING_) + X
+* __Affirmative form__: Subject + be (_auxiliary_) + verb (_including ING_) + X
     > Example: You are cooking.
-* __Negative__: Subject + BE not + Verb (_including ING_) + X
+* __Negative form__: Subject + be not (_auxiliary_) + verb (_including ING_) + X
     > Example: You aren’t cooking.
-* __Interrogative__: Question Word + BE + subject + Verb (_including ING_) + X ?
+* __Interrogative form__: Question word + be (_auxiliary_) + subject + verb (_including ING_) + X ?
     > Example: What are you cooking?
 
 ### 2.1 Action happening now:
@@ -67,11 +67,11 @@ Present tense + progressive aspect.
 
 ## 3. Past Simple
 Past tense + common aspect.
-* __Affirmative__: Subject + Verb in Past Simple (_2nd form_) + X
+* __Affirmative form__: Subject + verb in past simple (_in 2nd form_) + X
     > Example: I/You/He/She/It/We/They lived in London ten years ago.
-* __Negative__: Subject + didn’t (did not) + Base Form of the Verb + X
+* __Negative form__: Subject + didn’t (_auxiliary_) + verb (_in base form_) + X
     > Example: I/You/He/She/It/We/They didn’t like the film.
-* __Interrogative__: Question Word + did + subject + Base Form of the Verb + X ?
+* __Interrogative form__: Question word + did + subject + verb (_in base form_) + X ?
     > Example: Where did I/you/he/she/it/we/they meet Richard?
 
 ### 3.1 Actions, events in the past:
@@ -83,11 +83,11 @@ Past tense + common aspect.
 
 ## 4. Past Continuous
 Past tense + progressive aspect
-* __Affirmative__: Subject + was/were + Verb (_including ING_) + X
+* __Affirmative form__: Subject + was/were (_auxiliary_) + verb (_including ING_) + X
     > Examples: I/He/She was having a shower when you called. We/You/They were watching TV when Bob arrived.
-* __Negative__: Subject + wasn’t/weren’t + Verb (_including ING_) + X
+* __Negative form__: Subject + wasn’t/weren’t (_auxiliary_) + verb (_including ING_) + X
     > Examples: I/He/She wasn’t having a shower when you called. We/You/They weren’ watching TV when Bob arrived.
-* __Interrogative__: Question word + was/were + Verb (_including ING_) + X ?
+* __Interrogative form__: Question word + was/were (_auxiliary_) + verb (_including ING_) + X ?
     > Examples: What were you doing when Bob arrived? What was she doing when you called?
 
 ### 4.1 Action in progress in the past:
@@ -98,11 +98,11 @@ Past tense + progressive aspect
 
 ## 5. Present Perfect Simple
 Present perfect tense + common aspect
-* __Affirmative__: Subject + have/has + Verb in Past Participle (_3rd Form of the Verb_) + X
+* __Affirmative form__: Subject + have/has (_auxiliary_) + verb in past participle (_in 3rd form_) + X
     > Examples: I/You/We/They have finished the letter. He/She has finished the letter.
-* __Negative__: Subject + haven’t/hasn’t + Verb in Past Participle
+* __Negative form__: Subject + haven’t/hasn’t (_auxiliary_) + verb in past participle (_in 3rd form_) + X
     > Examples: I/You/We/They haven’t finished the letter. He/She hasn’t finished the letter.
-* __Interrogative__: Question Word + have/has + Verb in Past Participle + X ?
+* __Interrogative form__: Question word + have/has (_auxiliary_) + verb in past participle (_in 3rd form_) + X ?
     > Examples: Have I/you/we/they finished the letter? Has he/she finished the letter?
 
 ### 5.1 Action with a result:
@@ -132,11 +132,11 @@ Present perfect tense + common aspect
 
 ## 6. Present Perfect Continuous
 Present perfect tense + progressive aspect)
-* __Affirmative__: Subject + have/has been + Verb (_including ING_) + X
+* __Affirmative form__: Subject + have/has been (_auxiliary_) + verb (_including ING_) + X
     > Examples: I/you/we/they have been learning English for a year.He/she has been learning English for a year.
-* __Negative__: Subject + haven’t/hasn’t been + Verb (_including ING_) + X
+* __Negative form__: Subject + haven’t/hasn’t been (_auxiliary_) + verb (_including ING_) + X
     > Examples: I/you/we/they haven’t been playing tennis for a long time. He/she hasn’t been playing tennis for a long time.
-* __Interrogative__: Question Word + have/has + Subject + been + Verb (_including ING_) + X ?
+* __Interrogative form__: Question word + have/has (_auxiliary_) + subject + been (_auxiliary_) + verb (_including ING_) + X ?
     > Examples: How long have I/you/we/they been learning English? How long has he/she been learning English?
 
 ### 6.1 Action beginning in the past and still continuing (_with the progress emphasized_):
@@ -147,11 +147,11 @@ Present perfect tense + progressive aspect)
 
 ## 7. Past Perfect Simple
 Past tense + common aspect.
-* __Affirmative__: Subject + had + Verb in Past Participle + X
+* __Affirmative form__: Subject + had (_auxiliary_) + verb in past participle (_in 3rd form_) + X
     > Example: I/you/he/she/we/they had already met Sarah before the party.
-* __Negative__: Subject + hadn’t + Verb in Past Participle + X
+* __Negative form__: Subject + hadn’t (_auxiliary_) + verb in past participle (_in 3rd form_) + X
     > Example: I/you/he/she/we/they hadn’t met Sarah before the party.
-* __Interrogative__: Question Word + had + Subject + Verb in Past Participle + X ?
+* __Interrogative form__: Question word + had (_auxiliary_) + subject + verb in past participle (_in 3rd form_) + X ?
     > Example: Had I/you/he/she/we/they met Sarah before the party?
 
 ### 7.1 Action in the past before another:
@@ -162,11 +162,11 @@ Past tense + common aspect.
 
 ## 8. Past Perfect Continuous
 Past perfect tense + progressive aspect.
-* __Affirmative__: Subject + had been + Verb (_including ING_) + X
+* __Affirmative form__: Subject + had been (_auxiliary_) + verb (_including ING_) + X
     > Example: I/you/he/she/we/they had been living in German for years before moving here.
-* __Negative__: Subject + hadn’t been + Verb (_including ING_) + X
+* __Negative form__: Subject + hadn’t been (_auxiliary_) + verb (_including ING_) + X
     > Example: I/you/he/she/we/they hadn’t been living in Germany for a long time before moving here.
-* __Interrogative__: Question Word + had + Subject + Verb (_including ING_) + X ?
+* __Interrogative form__: Question word + had (_auxiliary_) + subject + been (_auxiliary_) + verb (_including ING_) + X ?
     > Example: How long had I/you/he/she/we/they been living in Germany before moving here?
 
 ### 8.1 Action in the past before another (_with the progress emphasized_):
@@ -177,11 +177,11 @@ Past perfect tense + progressive aspect.
 
 ## 9. Future Simple
 Future tense + common aspect.
-* __Affirmative__: Subject + Will + Base Form of the Verb + X
+* __Affirmative form__: Subject + will (_auxiliary_) + verb (_in base form_) + X
     > Example: I/you/he/she/we/they will see Jane when she comes back from India.
-* __Negative__: Subject + Won’t (will not) + Base Form of the Verb + x
+* __Negative form__: Subject + won’t (_auxiliary_) + verb (_in base form_) + x
     > Example: I/you/he/she/we/they won’t see Jane when she comes back from India.
-* __Interrogative__: Question Word + Will + Subject + Base Form of the Verb
+* __Interrogative form__: Question word + will (_auxiliary_) + subject + verb (_in base form_) + X ?
     > Example: Will I/you/he/she/we/they see Jane when she comes back from India?
 
 ### 9.1 Fact, action or event in the future:
@@ -192,11 +192,11 @@ Future tense + common aspect.
 
 ## 10. Future Continuous
 Future tense + progressive aspect.
-* __Affirmative__: Subject + Will Be + Verb (_including ING_) + X
+* __Affirmative form__: Subject + will be (_auxiliary_) + verb (_including ING_) + X
     > Example: I/you/he/she/we/they will be having fun at the party.
-* __Negative__: Subject + Won’t Be + Verb (_including ING_) + X
+* __Negative form__: Subject + won’t be (_auxiliary_) + verb (_including ING_) + X
     > Example: I/you/he/she/we/they won’t be having fun at the party.
-* __Interrogative__: Question Word + Will + Subject + Be + Verb (_including ING_) + X ?
+* __Interrogative form__: Question word + Will (_auxiliary_) + subject + be (_auxiliary_) + verb (_including ING_) + X ?
     > Example: Will I/you/he/she/we/they be having fun at the party?
 
 ## 10.1 Action in progress at a given time of the future:
@@ -207,11 +207,11 @@ Future tense + progressive aspect.
 
 ## 11. Future Perfect Simple
 Future perfect tense + common aspect
-* __Affirmative__: Subject + Will Have + Verb in Past Participle + X
+* __Affirmative form__: Subject + will have (_auxiliary_) + verb in past participle (_in 3rd form_) + X
     > Example: I/you/he/she/we/they will have met Dora’s husband by this time tomorrow.
-* __Negative__: Subject + Won’t Have + Verb in Past Participle + X
+* __Negative form__: Subject + won’t have (_auxiliary_) + verb in past participle (_in 3rd form_) + X
     > Example: I/you/he/she/we/they won’t have met Dora’s husband by this time tomorrow.
-* __Interrogative__: Question Word + Will + Subject + Have + Verb in Past Participle + X ?
+* __Interrogative form__: Question word + Will (_auxiliary_) + subject + have (_auxiliary_) + verb in past participle (_in 3rd form_) + X ?
     > Example: Will you have met Dora’s husband by this time tomorrow?
 
 ### 11.1 Action completed by a given time of the future:
@@ -222,11 +222,11 @@ Future perfect tense + common aspect
 
 ## 12. Future Perfect Continuous
 Future perfect tense + progressive aspect
-* __Affirmative__: Subject + Will Have Been + Verb (_including ING_) + X
+* __Affirmative form__: Subject + will have been (_auxiliary_) + verb (_including ING_) + X
     > Example: I/you/he/she/we/they will have been working with John for ten years next week.
-* __Negative__: Subject + Won’t Have Been + Verb (_including ING_) + X
+* __Negative form__: Subject + won’t have been (_auxiliary_) + verb (_including ING_) + X
     > Example: I/you/he/she/we/they won’t have been working with John for ten years next week.
-* __Interrogative__: Question Word + Will + Subject + Have Been + Verb (_including ING_) + X ?
+* __Interrogative form__: Question word + will (_auxiliary_) + subject + have been (_auxiliary_) + verb (_including ING_) + X ?
     > Example: How long will I/you/he/she/we/they have been working with John next week?
 
 ### 12.1 Action completed by or still in progress at a given time of the future (_with the progress emphasized_):
