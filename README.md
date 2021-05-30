@@ -1,5 +1,6 @@
 # Practice English Language
-This is a personal repository to practice with the english language.
+This is a personal repository to practice english language.
 
 ## Content
 * [English Tenses](docs/EnglishTenses.md)
+* [Comparatives & Superlatives](docs/Comparatives-Superlatives.md)
