@@ -22,10 +22,10 @@ Use in routines, habits and facts.
 * You always know the answer. You always don't know the answer. Do you always know the answer?
 * She never puts milk in her tea. She doesn’t put milk in her tea. Does she ever put milk in her tea?
 * My father plays the violin. My father doesn’t play the violin. Does your father play the violin?
-* We sometimes go to the cinema on Friday. We don’t go to the cinema on Friday. Do we go to the cinema on Fridays?
+* Sometimes, we go to the cinema on Friday. We don’t go to the cinema on Friday. Do we go to the cinema on Fridays?
 * They never walk in the wood. They don’t walk in the wood. Do they walk in the wood?
 
-### 1.2 General existence; stating a fact:
+### 1.2 General existence, stating a fact:
 > Examples:
 * An ostrich has two legs. A rabbit doesn’t have two legs. How many legs does a spider have?
 * The earth goes round the sun. The sun doesn’t go round the earth. Does the moon go round the earth?
@@ -59,7 +59,7 @@ Present tense + progressive aspect.
 > Examples:
 * He‘s studying Spanish and German. He‘s not studying French. What languages is he studying?
 * They‘re going to a business course. They aren’t going to a cooking course. What course are they going to?
-* You‘re visiting museums while you’re here. You‘re not visiting factories.  Are you visiting museums in our city?
+* You‘re visiting museums while you’re here. You‘re not visiting factories. Are you visiting museums in our city?
 
 ### 2.3 Definite arrangement in the near future:
 > Examples:
@@ -88,7 +88,7 @@ Past tense + progressive aspect
 * __Affirmative form__: Subject + was/were (_auxiliary_) + verb (_including ING_) + X
     > Examples: I/He/She was having a shower when you called. We/You/They were watching TV when Bob arrived.
 * __Negative form__: Subject + wasn’t/weren’t (_auxiliary_) + verb (_including ING_) + X
-    > Examples: I/He/She wasn’t having a shower when you called. We/You/They weren’ watching TV when Bob arrived.
+    > Examples: I/He/She wasn’t having a shower when you called. We/You/They weren’t watching TV when Bob arrived.
 * __Interrogative form__: Question word + was/were (_auxiliary_) + verb (_including ING_) + X ?
     > Examples: What were you doing when Bob arrived? What was she doing when you called?
 
