@@ -101,9 +101,9 @@ Past tense + progressive aspect
 ## 5. Present Perfect Simple
 Present perfect tense + common aspect
 * __Affirmative form__: Subject + have/has (_auxiliary_) + verb in past participle (_in 3rd form_) + X
-    > Examples: I/You/We/They have finished the letter. He/She has finished the letter.
+    > Examples: I/You/We/They have finished the letter. He/She/It has finished the letter.
 * __Negative form__: Subject + haven’t/hasn’t (_auxiliary_) + verb in past participle (_in 3rd form_) + X
-    > Examples: I/You/We/They haven’t finished the letter. He/She hasn’t finished the letter.
+    > Examples: I/You/We/They haven’t finished the letter. He/She/It hasn’t finished the letter.
 * __Interrogative form__: Question word + have/has (_auxiliary_) + verb in past participle (_in 3rd form_) + X ?
     > Examples: Have I/you/we/they finished the letter? Has he/she finished the letter?
 
