@@ -6,18 +6,20 @@
 Use in routines, habits and facts.
 * __Affirmative form__: Subject + verb (_in base form_) + X
     > Examples: I play music every day. It runs ok.
-    * _For 3rd Person Singular __he/she/it__ add `s` to the verb in base form_.
+    * _For 3rd Person Singular __he/she/it__ add the `s` in verb_.
 
 * __Negative form__: Subject + don’t/doesn’t (_auxiliary_) + verb (_in base form_) + X
     > Examples: They don’t work on holidays. She doesn’t work on weekends.
+    * _For 3rd Person Singular __he/she/it__ don't add the `s` in verb_.
 
 * __Interrogative form__: Question word + do/does (_auxiliary_) + subject + verb (_in base form_) + X ?
     > Examples: Where do you live? What does he write?
+    * _For 3rd Person Singular __he/she/it__ don't add the `s` in verb_.
 
 ### 1.1 Usual, regular actions:
 > Examples:
-* I usually go fishing at weekends. I don’t go fishing at weekends. Do I go fishing at weekends?
-* You always know the answer. You don’t always know the answer. Do you always know the answer?
+* Usually, I go fishing at weekends. I don’t go fishing at weekends. Do I go fishing at weekends?
+* You always know the answer. You always don't know the answer. Do you always know the answer?
 * She never puts milk in her tea. She doesn’t put milk in her tea. Does she ever put milk in her tea?
 * My father plays the violin. My father doesn’t play the violin. Does your father play the violin?
 * We sometimes go to the cinema on Friday. We don’t go to the cinema on Friday. Do we go to the cinema on Fridays?
